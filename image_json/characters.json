@@ -1,9 +1,10 @@
 [
   {
-    "name": "Alisa Mikhailovna Kujou",
-    "age": 17,
-    "status": "Libre",
-    "anime": "Roshidere",
-    "image_url": "https://qu.ax/pMjB.jpeg"
+        "name": "Alisa Mikhailovna Kujou",
+        "age": 18,
+        "relationship": "Soltera",
+        "source": "Roshidere",
+        "img": "https://qu.ax/pMjB.jpeg"
   }
 ]
+    
