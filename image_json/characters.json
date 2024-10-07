@@ -1,10 +1,17 @@
 [
   {
         "name": "Alisa Mikhailovna Kujou",
-        "age": 18,
+        "age": 16,
         "relationship": "Soltera",
         "source": "Roshidere",
         "img": "https://qu.ax/pMjB.jpeg"
+  }
+  {
+        "name": "María Mikhailovna Kujou",
+        "age": 16,
+        "relationship": "Soltera",
+        "source": "Roshidere",
+        "img": "https://qu.ax/ypXz.jpeg"
   }
 ]
     
