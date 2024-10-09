@@ -33,5 +33,12 @@
         "relationship": "Enamorada de Light Yagami",
         "source": "Death Note",
         "img": "https://telegra.ph/file/70fadfc8d38f2d307cd35.jpg"
+  },
+  {
+        "name": "Asuna Yuuki",
+        "age": 18,
+        "relationship": "Casada",
+        "source": "Sword Art Online",
+        "img": "https://telegra.ph/file/a803779df82b23707a0af.jpg"
   }
 ]
