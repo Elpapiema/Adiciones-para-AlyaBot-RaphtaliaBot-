@@ -40,5 +40,12 @@
         "relationship": "Casada",
         "source": "Sword Art Online",
         "img": "https://telegra.ph/file/a803779df82b23707a0af.jpg"
+  },
+  {
+        "name": "Erza Scarlet",
+        "age": 19,
+        "relationship": "Soltera",
+        "source": "Fairy Tail",
+        "img": "https://telegra.ph/file/9d8777e630c32a244ce9c.jpg"
   }
 ]
