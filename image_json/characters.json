@@ -19,6 +19,19 @@
         "relationship": "Soltera",
         "source": "Attack on Titan (Shingeki no Kyojin)",
         "img": "https://telegra.ph/file/b31cd03f716d362b33716.jpg"
+  },
+  {
+        "name": "Izuku Midoriya",
+        "age": 16,
+        "relationship": "Soltero",
+        "source": "My Hero Academia",
+        "img": "https://telegra.ph/file/f689a972cfc1c5efff189.jpg"
+  },
+  {
+        "name": "Misa Amane",
+        "age": 19,
+        "relationship": "Enamorada de Light Yagami",
+        "source": "Death Note",
+        "img": "https://telegra.ph/file/70fadfc8d38f2d307cd35.jpg"
   }
 ]
-    
