@@ -19,6 +19,6 @@
       "description": "Sirves comida y bebidas en un restaurante.",
       "minMoney": 100,
       "maxMoney": 400
-    }, 
+    }
   ]
 }
