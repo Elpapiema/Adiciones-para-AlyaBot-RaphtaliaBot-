@@ -16,10 +16,9 @@
       "maxMoney": 400
     }, 
     {
-
-      "description": "Trabajaste de jardinero y ganaste.",
-      "minMoney": 150,
-      "maxMoney": 350
+      "description": "Sirves comida y bebidas en un restaurante.",
+      "minMoney": 100,
+      "maxMoney": 400
     }, 
   ]
 }
