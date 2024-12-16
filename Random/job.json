@@ -16,7 +16,8 @@
       "maxMoney": 400
     }, 
     {
-     "description": "Trabajaste de jardinero y ganaste.",
+
+      "description": "Trabajaste de jardinero y ganaste.",
       "minMoney": 150,
       "maxMoney": 350
     }, 
