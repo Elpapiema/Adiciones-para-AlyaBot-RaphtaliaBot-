@@ -1,1 +1,19 @@
-
+{
+  "jobs": [
+    {
+      "description": "Trabajas como desarrollador de software.",
+      "minMoney": 500,
+      "maxMoney": 1500
+    },
+    {
+      "description": "Enseñas a estudiantes en una universidad.",
+      "minMoney": 200,
+      "maxMoney": 800
+    },
+    {
+      "description": "Sirves comida y bebidas en un restaurante.",
+      "minMoney": 100,
+      "maxMoney": 400
+    }
+  ]
+}
