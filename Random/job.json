@@ -25,5 +25,15 @@
       "minMoney": 100,
       "maxMoney": 250
     }, 
+    {
+      "description": "Trabajaste cuidando una loli y ganaste.",
+      "minMoney": 100,
+      "maxMoney": 400
+    }, 
+    {
+      "description": "Trabajaste en un suchi para comprarte la figura de alya que quierias y ganaste.",
+      "minMoney": 700,
+      "maxMoney": 1000
+    }, 
   ]
-}
+{
