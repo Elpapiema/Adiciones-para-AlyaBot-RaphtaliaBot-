@@ -1,1 +1,10 @@
 
+{
+  "jobs": [
+    {
+      "description": "Te cogiste al wey que dice que los bots se hacen con Termux ",
+      "minMoney": 500,
+      "maxMoney": 1500
+    }
+  ]
+}
