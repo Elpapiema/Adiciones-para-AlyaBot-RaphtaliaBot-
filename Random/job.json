@@ -19,6 +19,11 @@
       "description": "Sirves comida y bebidas en un restaurante.",
       "minMoney": 100,
       "maxMoney": 400
-    }
+    }, 
+    {
+      "description": "Trabajaste como mesero y ganaste.",
+      "minMoney": 100,
+      "maxMoney": 250
+    }, 
   ]
 }
