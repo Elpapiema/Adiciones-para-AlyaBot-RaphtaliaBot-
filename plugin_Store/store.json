@@ -1,0 +1,18 @@
+{
+    "plugins": [
+        {
+            "name": "Sticker Marker",
+            "description": "Convierte imagenes en sitckers",
+            "price": "Gratis",
+            "link":"https://github.com/"
+        }
+    ],
+    "packages":[
+        {
+            "name": "Paquete +18",
+            "description": "Este paquete te incule una gran variedad de comandos NSFW",
+            "price": "Gratis",
+            "link": "https://github.com/"
+        }
+    ]
+}
