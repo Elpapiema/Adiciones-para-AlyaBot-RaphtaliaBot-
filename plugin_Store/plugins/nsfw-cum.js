@@ -30,9 +30,9 @@ let handler = async (m, { conn, usedPrefix }) => {
     }
 };
 
-handler.help = ['comer @tag'];
-handler.tags = ['fun'];
-handler.command = ['eat', 'comer'];
+handler.help = ['cum @tag'];
+handler.tags = ['nsfw'];
+handler.command = ['cum', 'cumear'];
 handler.group = true;
 
 export default handler;
