@@ -11,7 +11,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     let name = conn.getName(who);
     let name2 = conn.getName(m.sender);
     await conn.sendMessage(m.chat, { react: { text: '💦', key: m.key } });
-    let str = `${name2} se vino dentro de ${name}`.trim();
+    let str = `\`${name2}\` se vino dentro de \`${name}\``.trim();
 
     if (m.isGroup) {
         // Obtener el archivo JSON desde GitHub
