@@ -10,7 +10,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     let name = conn.getName(who);
     let name2 = conn.getName(m.sender);
     m.react('😋');
-    let str = `${name2}` está comiendo con `${Name}`.trim();
+    let str = `${name2} está comiendo con ${Name}`.trim();
 
     if (m.isGroup) {
         try {
