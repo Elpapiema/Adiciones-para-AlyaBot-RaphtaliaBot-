@@ -1,7 +1,7 @@
 {
     "plugins": [
         {
-            "name": "Sticker Marker",
+            "name": "Sticker-Marker",
             "description": "Convierte imagenes en sitckers",
             "price": "Gratis",
             "link":"https://github.com/"
