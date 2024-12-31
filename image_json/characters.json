@@ -158,5 +158,12 @@
         "relationship": "casada",
         "source": "Dragon ball",
         "img": "https://files.catbox.moe/5hqlt8.jpg"
-   }
+   }, 
+   {
+        "name": "Ruby Hoshino", 
+        "age": 16,
+        "relationship": "soltera", 
+        "source": "Oshi no Ko", 
+        "img": "https://files.catbox.moe/8fwys6.jpg"
+    }, 
 ]
