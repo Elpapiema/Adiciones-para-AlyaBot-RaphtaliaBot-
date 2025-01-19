@@ -200,7 +200,7 @@
 },
 {
             "name": "Loraine", 
-        "age":  ?,
+        "age":  0,
         "relationship": "Soltera", 
         "source": "Guardian tales", 
         "img":
@@ -216,7 +216,7 @@
 },
 {
           "name": "Lumine", 
-        "age": ? ,
+        "age": 0,
         "relationship": "Soltera", 
         "source": "Genshin impact", 
         "img":
@@ -240,7 +240,7 @@
 }, 
 {
           "name": "Rika fuurude", 
-        "age": +1000 ,
+        "age": 1000 ,
         "relationship": "Soltera", 
         "source": "higurashi no naku koro ni", 
         "img":
