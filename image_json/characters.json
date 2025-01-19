@@ -248,7 +248,7 @@
 },
 {
           "name": "satoko houjou", 
-        "age": +1000 ,
+        "age": 1000 ,
         "relationship": "quiere a Rika", 
         "source": "higurashi no naku koro ni", 
         "img":
@@ -256,7 +256,7 @@
 },
 {
           "name": "Mion sonozaki", 
-        "age": 17? ,
+        "age": 17,
         "relationship": "Soltera", 
         "source": "Higurashi no naku koro ni", 
         "img":
@@ -264,7 +264,7 @@
 },
 {
            "name": "shion sonosaki", 
-        "age": 17? ,
+        "age": 17,
         "relationship": "Ama a Satoshi houjo", 
         "source": "Higurashi no naku koro ni", 
         "img":
@@ -272,7 +272,7 @@
 },
 {
            "name": "Rena ryuugu", 
-        "age": 15? ,
+        "age": 15,
         "relationship": "Soltera", 
         "source": "Higurashi no naku koro ni", 
         "img":
@@ -280,7 +280,7 @@
 },
 {
             "name": "María", 
-        "age": ¿? ,
+        "age": na ,
         "relationship": "en pareja con joseph", 
         "source": " junketsu no María", 
         "img":
@@ -288,7 +288,7 @@
 },
 {
             "name": "Zelda", 
-        "age": ? ,
+        "age": na,
         "relationship": " Soletera", 
         "source": "the legend of Zelda sky skyward sword", 
         "img":
