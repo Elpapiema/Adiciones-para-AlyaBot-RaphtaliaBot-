@@ -280,7 +280,7 @@
 },
 {
             "name": "María", 
-        "age": na ,
+        "age": 0 ,
         "relationship": "en pareja con joseph", 
         "source": " junketsu no María", 
         "img":
@@ -288,7 +288,7 @@
 },
 {
             "name": "Zelda", 
-        "age": na,
+        "age": 0,
         "relationship": " Soletera", 
         "source": "the legend of Zelda sky skyward sword", 
         "img":
