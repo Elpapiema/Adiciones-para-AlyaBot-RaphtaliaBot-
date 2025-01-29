@@ -116,50 +116,50 @@
         "relationship": "Soltera",
         "source": "Chainsaw man",
         "img": "https://qu.ax/yMseZ.jpg"
-   }, 
-   {
+  }, 
+  {
         "name": "Yuliet Persia", 
         "age": 16,
         "relationship": "Casada",
         "source": "kishuku gakkou no juliet", 
         "img": "https://qu.ax/UWytO.jpg"
-   }, 
-   {     "name": "Kisara", 
+  }, 
+  {   
+        "name": "Kisara", 
         "age": 16,
         "relationship": "Soltera",
         "source": "Engage Kiss", 
         "img": "https://files.catbox.moe/9qwi8b.jpg"
-   },
-   {
+  },
+  {
         "name": "Raphtalia", 
         "age": 12,
         "relationship": "Soltera",
         "source": "Tate no Yuusha no nariagari", 
         "img": "https://files.catbox.moe/afd9bx.jpg"
-   },
-   {
+  },
+  {
         "name": "Ai Hoshino",
         "age": 20,
         "relationship": "Soltera",
         "source": "Oshi no Ko",
         "img": "https://files.catbox.moe/wv8el0.jpeg"
-   },
-   {
+  },
+  {
         "name": "Akaza Akari",
         "age": 15,
         "relationship": "Soltera",
         "source": "yuruyuri",
-        "img":
-"https://files.catbox.moe/8mndm6.jpg"
-   },
-   {
+        "img": "https://files.catbox.moe/8mndm6.jpg"
+  },
+  {
         "name": "bulma",
         "age": 45,
         "relationship": "casada",
         "source": "Dragon ball",
         "img": "https://files.catbox.moe/5hqlt8.jpg"
-   }, 
-   {
+  }, 
+  {
         "name": "Ruby Hoshino", 
         "age": 16,
         "relationship": "soltera", 
@@ -167,139 +167,122 @@
         "img": "https://files.catbox.moe/8fwys6.jpg"
   },
   {
-          "name": "Rishia Ivyred", 
+        "name": "Rishia Ivyred", 
         "age": 17,
         "relationship": "soltera", 
         "source": "Tate no yuusha", 
-        "img":
-"https://files.catbox.moe/gra1rf.jpg"
-},
-{         
-            "name": "setsuna", 
+        "img":"https://files.catbox.moe/gra1rf.jpg"
+  },
+  {         
+        "name": "setsuna", 
         "age": 18 ,
         "relationship": "En pareja", 
         "source": "redo of healer", 
-        "img":
-"https://files.catbox.moe/9gcijm.jpg"
-},
-{
-         "name": "Milim nava", 
+        "img":"https://files.catbox.moe/9gcijm.jpg"
+  },
+  {
+        "name": "Milim nava", 
         "age": 1000 ,
         "relationship": "soltera", 
         "source": "Tensei shitara slime", 
-        "img":
-"https://files.catbox.moe/d2t8bh.jpg"
-},
-{
-          "name": "Kyoko Toshino", 
+        "img":"https://files.catbox.moe/d2t8bh.jpg"
+  },
+  {
+        "name": "Kyoko Toshino", 
         "age": 15 ,
         "relationship": "Soltera ", 
         "source": "Yuruyuri", 
-        "img":
-"https://files.catbox.moe/3bze4u.jpg"
-},
-{
-            "name": "Loraine", 
+        "img":"https://files.catbox.moe/3bze4u.jpg"
+  },
+  {
+        "name": "Loraine", 
         "age":  0,
         "relationship": "Soltera", 
         "source": "Guardian tales", 
-        "img":
-"https://files.catbox.moe/odo1hy.jpg"
-},
-{
-           "name": "Sohee ", 
+        "img":"https://files.catbox.moe/odo1hy.jpg"
+  },
+  {
+        "name": "Sohee ", 
         "age": 19 ,
         "relationship": "Soltera", 
         "source": "Guardian tales", 
-        "img":
-"https://files.catbox.moe/8vf83m.jpg"
-},
-{
-          "name": "Lumine", 
+        "img":"https://files.catbox.moe/8vf83m.jpg"
+  },
+  {
+        "name": "Lumine", 
         "age": 0,
         "relationship": "Soltera", 
         "source": "Genshin impact", 
-        "img":
-"https://files.catbox.moe/wizeto.jpg"
-},
-{
-          "name": "Yoko Littner", 
+        "img":"https://files.catbox.moe/wizeto.jpg"
+  },
+  {
+        "name": "Yoko Littner", 
         "age":  14,
         "relationship": "enamorada de kittan", 
         "source": "Tengen toppa Gurren lagann", 
-        "img":
-"https://files.catbox.moe/82yx8i.jpg" 
-},
-{
-            "name": "miyabi hoshimi", 
+        "img":"https://files.catbox.moe/82yx8i.jpg" 
+  },
+  {
+        "name": "miyabi hoshimi", 
         "age": 28 ,
         "relationship": "Soletara?", 
         "source": "Zenless zone zero", 
-        "img":
-"https://files.catbox.moe/llqblt.jpg"
-}, 
-{
-          "name": "Rika fuurude", 
+        "img":"https://files.catbox.moe/llqblt.jpg"
+  }, 
+  {
+        "name": "Rika fuurude", 
         "age": 1000 ,
         "relationship": "Soltera", 
         "source": "higurashi no naku koro ni", 
-        "img":
-"https://files.catbox.moe/m88b7m.jpg"
-},
-{
-          "name": "satoko houjou", 
+        "img":"https://files.catbox.moe/m88b7m.jpg"
+  },
+  {
+        "name": "satoko houjou", 
         "age": 1000 ,
         "relationship": "quiere a Rika", 
         "source": "higurashi no naku koro ni", 
-        "img":
-"https://files.catbox.moe/bv3ln3.jpg"
-},
-{
-          "name": "Mion sonozaki", 
+        "img":"https://files.catbox.moe/bv3ln3.jpg"
+  },
+  {
+        "name": "Mion sonozaki", 
         "age": 17,
         "relationship": "Soltera", 
         "source": "Higurashi no naku koro ni", 
-        "img":
-"https://files.catbox.moe/93zntw.jpg"
-},
-{
-           "name": "shion sonosaki", 
+        "img":"https://files.catbox.moe/93zntw.jpg"
+  },
+  { 
+        "name": "shion sonosaki", 
         "age": 17,
         "relationship": "Ama a Satoshi houjo", 
         "source": "Higurashi no naku koro ni", 
-        "img":
-"https://files.catbox.moe/ga6il0.jpg"
-},
-{
-           "name": "Rena ryuugu", 
+        "img":"https://files.catbox.moe/ga6il0.jpg"
+  },
+  {
+        "name": "Rena ryuugu", 
         "age": 15,
         "relationship": "Soltera", 
         "source": "Higurashi no naku koro ni", 
-        "img":
-"https://files.catbox.moe/xng69k.jpg"
-},
-{
-            "name": "María", 
+        "img":"https://files.catbox.moe/xng69k.jpg"
+  },
+  {
+        "name": "María", 
         "age": 0 ,
         "relationship": "en pareja con joseph", 
         "source": " junketsu no María", 
-        "img":
-"https://files.catbox.moe/5dd11m.jpg"
-},
-{
-            "name": "Zelda", 
+        "img":"https://files.catbox.moe/5dd11m.jpg"
+  },
+  {
+        "name": "Zelda", 
         "age": 0,
         "relationship": " Soletera", 
         "source": "the legend of Zelda sky skyward sword", 
-        "img":
-"https://files.catbox.moe/i6o4dm.jpg"
-},
-{
-            "name": "Emilia ", 
+        "img":"https://files.catbox.moe/i6o4dm.jpg"
+  },
+  {
+        "name": "Emilia ", 
         "age": 18 ,
         "relationship": "Relación con Subaru", 
         "source": "Re:Zero", 
-        "img":
-"https://files.catbox.moe/bq0213.jpg"
-}
+        "img":"https://files.catbox.moe/bq0213.jpg"
+  }
 ]
