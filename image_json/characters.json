@@ -284,5 +284,13 @@
         "relationship": "Relación con Subaru", 
         "source": "Re:Zero", 
         "img":"https://files.catbox.moe/bq0213.jpg"
+  }, 
+  {
+      
+       "name": "Arlecchino",
+       "age": 20,
+       "relationship": "Soltera",
+       "source": "Genshin Impact",
+       "img": "https://files.catbox.moe/mms3iy.jpg"
   }
 ]
