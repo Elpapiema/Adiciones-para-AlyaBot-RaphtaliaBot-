@@ -9,13 +9,13 @@ let handler = async (m, { conn, usedPrefix }) => {
     let user = global.db.data.users[who];
     let name = conn.getName(who);
     let name2 = conn.getName(m.sender);
-    m.react('💦');
-    let str = `\`${name2}\` se vino encima de \`${name}\``.trim();
+    m.react('🔥');
+    let str = `\`${name2}\` esta haciendo un 69 con \`${name}\``.trim();
 
     if (m.isGroup) {
         try {
             // Obtener el archivo JSON desde GitHub
-            const response = await axios.get('https://raw.githubusercontent.com/Elpapiema/Adiciones-para-AlyaBot-RaphtaliaBot-/refs/heads/main/video_json/fun_cum.json');
+            const response = await axios.get('https://raw.githubusercontent.com/Elpapiema/Adiciones-para-AlyaBot-RaphtaliaBot-/refs/heads/main/video_json/NSFW/69.json');
             const videos = response.data.videos;
 
             // Seleccionar un video aleatorio
@@ -30,9 +30,9 @@ let handler = async (m, { conn, usedPrefix }) => {
     }
 };
 
-handler.help = ['cum @tag'];
+handler.help = ['69 @tag'];
 handler.tags = ['nsfw'];
-handler.command = ['cum', 'cumear'];
+handler.command = ['sixnine', '69'];
 handler.group = true;
 
 export default handler;
