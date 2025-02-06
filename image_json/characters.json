@@ -292,5 +292,13 @@
        "relationship": "Soltera",
        "source": "Genshin Impact",
        "img": "https://files.catbox.moe/mms3iy.jpg"
-  }
+  },
+  {
+  
+        "name": "Hu Tao",
+        "age": 23,
+        "relationship": "Soltera",
+        "source": "Genshin Impact",
+        "img":         "https://files.catbox.moe/r71v37.jpg"
+}
 ]
