@@ -1,11 +1,11 @@
 {
     "successful": [
-      { "message": "¡Lograste robar una tienda y obtuviste {amount} monedas!", "amount": 200 },
-      { "message": "Te colaste en un banco y te llevaste {amount} monedas antes de que llegara la policía.", "amount": 500 }
+      { "message": "¡Lograste robar una tienda y obtuviste {amount} !", "amount": 200 },
+      { "message": "Te colaste en un banco y te llevaste {amount} antes de que llegara la policía.", "amount": 500 }
     ],
     "failed": [
-      { "message": "Intentaste robar una casa, pero la alarma se activó y perdiste {amount} monedas en la huida.", "amount": -100 },
-      { "message": "Tu plan salió mal y terminaste perdiendo {amount} monedas en sobornos.", "amount": -250 }
+      { "message": "Intentaste robar una casa, pero la alarma se activó y perdiste {amount} en la huida.", "amount": -100 },
+      { "message": "Tu plan salió mal y terminaste perdiendo {amount} en sobornos.", "amount": -250 }
     ]
   }
   
