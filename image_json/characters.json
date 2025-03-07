@@ -560,5 +560,39 @@
         "relationship": "Casada",
         "source": "Seishun Buta Yarou",
         "img": "https://files.catbox.moe/6xcsoo.jpg"
-}
+},
+{
+
+
+        "name": "Sirius",
+        "age": 20,
+        "relationship": "Casada",
+        "source": "Azur Lane",
+        "img": "https://files.catbox.moe/qxueje.jpg"
+},
+{
+       "name": "The Herta",
+       "age": 80,
+       "relationship": "Soltera",
+       "source": "Honkai Star Rail",
+       "img": "https://files.catbox.moe/62weej.jpg"
+},
+{
+
+
+       "name": "Katsura Kotonoba",
+       "age": 16,
+       "relationship": "casada",
+       "source": "School Days",
+       "img": "https://files.catbox.moe/2cd5x2.jpg"
+},
+{
+
+
+       "name": "Chisato nishikigl",
+       "age": 17,
+       "relationship": "soltera",
+       "source": "Lycoris Recoil",
+      "img": "https://files.catbox.moe/ms4ejc.jpg"
+},
 ]
