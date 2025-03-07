@@ -366,5 +366,93 @@
         "relationship": "Vtuber",
         "source": "Hololive",
         "img": "https://files.catbox.moe/g614we.jpg"
-}
+},
+{
+
+        "name": "Flandre Scarlet",
+        "age": 495,
+        "relationship": "soltera"
+  "source": "Houtou",
+  "img": "https://files.catbox.moe/loiliq.jpg"
+},
+{
+
+         "name": "Maria Robotnik",
+         "age": 12,
+         "relationship": "soltera" ,
+  "source": "Sonic",
+  "img": "https://files.catbox.moe/jjyhi2.jpg"
+},
+{
+
+         "name": "Erika",
+         "age": 17,
+         "relationship": "soltera",
+  "source": "Konosuba",
+  "img": "https://files.catbox.moe/22dbu8.jpg"
+},
+{
+
+        "name": "Kiruya Momochi",
+        "age": 14,
+        "relationship": "soltera",
+        "source": "Princess Connect",
+        "img": "https://files.catbox.moe/lumko5.jpg"
+},
+{
+
+        "name": "Maple",
+        "age": 17,
+        "relationship": "queire mucho a cinnamon",
+        "source": "Nekopara",
+       "img": "https://files.catbox.moe/4wnrmc.jpg"
+},
+{
+
+        "name": "Miyako Shikimori",
+        "age": 17,
+        "relationship": " pareja de Izumi Izumo ",
+        "source": "Kawaii dake ja Nai    Shikimori-san",
+       "img": "https://files.catbox.moe/evyot6.jpg"
+},
+{
+
+        "name": "Itsuka Kotori",
+        "age": 14,
+        "relationship": "Enamorada de shidou itsuka",
+        "source": "Date a Live",
+        "img": "https://files.catbox.moe/2kxs1u.jpg"
+},
+{
+
+        "name": "Yamai Kasamachi",
+        "age": 17,
+        "relationship": "enamoradas de shidou itsuka",
+        "source": "Date a live",
+        "img": "https://files.catbox.moe/v1aima.jpg"
+},
+{
+
+        "name": "Kei Karuizawa",
+        "age": 15,
+        "relationship": "pareja de Kiyotaka Ayanokōji",
+        "source": "Classroom of The Elite",
+        "img": "https://files.catbox.moe/hqcrhg.jpg"
+},
+{
+
+        "name": "Nino Nakano",
+        "age": 17,
+        "relationship": " soltera ",
+        "source": "The Quintessential",
+        "img": "https://files.catbox.moe/4zgijh.jpg"
+},
+{
+   
+        "name": "Isuzu Sento",
+        "age": 15,
+        "relationship": "pareja de Kanie  Seiya",
+        "source": "Amagi Brilliant Park",
+        "img": "https://files.catbox.moe/jyz0bv.jpg"
+},
 ]
