@@ -384,15 +384,13 @@
   "img": "https://files.catbox.moe/jjyhi2.jpg"
 },
 {
-
          "name": "Erika",
          "age": 17,
          "relationship": "soltera",
-  "source": "Konosuba",
-  "img": "https://files.catbox.moe/22dbu8.jpg"
+         "source": "Konosuba",
+         "img": "https://files.catbox.moe/22dbu8.jpg"
 },
 {
-
         "name": "Kiruya Momochi",
         "age": 14,
         "relationship": "soltera",
@@ -400,7 +398,6 @@
         "img": "https://files.catbox.moe/lumko5.jpg"
 },
 {
-
         "name": "Maple",
         "age": 17,
         "relationship": "queire mucho a cinnamon",
@@ -408,10 +405,9 @@
        "img": "https://files.catbox.moe/4wnrmc.jpg"
 },
 {
-
-        "name": "Miyako Shikimori",
-        "age": 17,
-        "relationship": " pareja de Izumi Izumo ",
+       "name": "Miyako Shikimori"
+       "age": 17
+      "relationship": " pareja de Izumi Izumo ",
         "source": "Kawaii dake ja Nai    Shikimori-san",
        "img": "https://files.catbox.moe/evyot6.jpg"
 },
