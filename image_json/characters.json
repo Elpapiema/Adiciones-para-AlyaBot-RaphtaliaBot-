@@ -196,7 +196,7 @@
   },
   {
         "name": "Loraine", 
-        "age":  0,
+        "age":  25,
         "relationship": "Soltera", 
         "source": "Guardian tales", 
         "img":"https://files.catbox.moe/odo1hy.jpg"
@@ -210,7 +210,7 @@
   },
   {
         "name": "Lumine", 
-        "age": 0,
+        "age": 100,
         "relationship": "Soltera", 
         "source": "Genshin impact", 
         "img":"https://files.catbox.moe/wizeto.jpg"
@@ -266,14 +266,14 @@
   },
   {
         "name": "María", 
-        "age": 0 ,
+        "age": 21 ,
         "relationship": "en pareja con joseph", 
         "source": " junketsu no María", 
         "img":"https://files.catbox.moe/5dd11m.jpg"
   },
   {
         "name": "Zelda", 
-        "age": 0,
+        "age": 18,
         "relationship": " Soletera", 
         "source": "the legend of Zelda sky skyward sword", 
         "img":"https://files.catbox.moe/i6o4dm.jpg"
@@ -300,5 +300,12 @@
         "relationship": "Soltera",
         "source": "Genshin Impact",
         "img":         "https://files.catbox.moe/r71v37.jpg"
+},
+{ 
+        "name": "Aqua",
+        "age": 5212200,
+        "relationship": "Soltera",
+        "source": "Konosuba",
+        "img":          "https://files.catbox.moe/ef7896.jpg"
 }
 ]
