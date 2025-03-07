@@ -307,5 +307,64 @@
         "relationship": "Soltera",
         "source": "Konosuba",
         "img":          "https://files.catbox.moe/ef7896.jpg"
+},
+{  
+         "name": "Katsura Kotonoba",
+         "age": 16,
+         "relationship": "casada",
+         "source": "School Days",
+         "img": "https://files.catbox.moe/2cd5x2.jpg"
+},
+{       
+         "name": "Sakayanagi Arisu
+         "age": 17,
+         "relationship": "soltera",
+         "source": "classroom of the elite",
+  "img": "https://files.catbox.moe/0faekc.jpg"
+},
+{ 
+         "name": "Koronen Doggo",
+         "age": 90,
+         "relationship": "soltera",
+         "source": "soltera",
+         "img": "https://files.catbox.moe/ko3m3p.jpg"
+},
+{       
+        "name": "Ryza Stout",
+        "age": 21,
+        "relationship": "Ravaging Queen",
+        "source": "Atelier Ryza",
+        "img": "https://files.catbox.moe/ofn9yr.jpg"
+},
+{
+
+        "name": "Keqing",
+        "age": 20,
+        "relationship": "Siete Estrellas de Liyue",
+        "source": "Genshin Impact",
+        "img": "https://files.catbox.moe/9fasjx.jpg"
+},
+{
+  
+        "name": "Asada Pekora",
+        "age": 111,
+        "relationship": "Vtuber",
+        "source": "Hololive",
+        "img": "https://files.catbox.moe/tle19m.jpg"
+},
+{
+
+        "name": "PekoMama",
+        "age": 30,
+        "relationship": "V-Tuber",
+        "source": "Hololive",
+        "img":  "https://files.catbox.moe/g7s5gn.jpg"
+},
+{
+        "name": "Minato Aqua",
+        "age": 17,
+        "relationship": "Vtuber",
+        "source": "Hololive",
+        "img": "https://files.catbox.moe/g614we.jpg"
 }
 ]
