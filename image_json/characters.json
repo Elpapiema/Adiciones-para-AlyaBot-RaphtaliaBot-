@@ -401,7 +401,7 @@
 },
 {
        "name": "Miyako Shikimori",
-       "age": 17
+       "age": 17,
       "relationship": " pareja de Izumi Izumo ",
         "source": "Kawaii dake ja Nai    Shikimori-san",
        "img": "https://files.catbox.moe/evyot6.jpg"
@@ -486,7 +486,7 @@
 {
         "name": "Hitori Gotoh",
         "age": 16,
-        "relationship": "soltera"
+        "relationship": "soltera",
         "source": "Bocchi the Rock!",
         "img": "https://files.catbox.moe/nueb30.jpg"
 },
