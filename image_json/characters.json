@@ -554,9 +554,8 @@
       "img": "https://files.catbox.moe/ms4ejc.jpg"
 }, 
 {       "name": "Alice Nakiri",
-       "age": 180,
-       "relationship": "Soletra",
-       "source": "Food Wars",
-       "img": "https://files.catbox.moe/v579j9.jpg"
-}
+        "age": 180,
+        "relationship": "Soletra",
+        "source": "Food Wars",
+        "img": "https://files.catbox.moe/v579j9.jpg"
 ]
