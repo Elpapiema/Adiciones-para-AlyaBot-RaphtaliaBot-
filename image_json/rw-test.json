@@ -1,9 +1,10 @@
 [
-  {
-  "name": "Kana Arima",
-  "age": 17,
-  "relationship": "Soltera",
-  "source": "Oshi no Ko",
-  "img": "https://files.catbox.moe/5cvqk0.jpg"
-}
+    {
+        "name": "Alisa Mikhailovna Kujou",
+        "age": 16,
+        "relationship": "Soltera",
+        "source": "Roshidere",
+        "img": "https://files.catbox.moe/jghbws.png",
+        "buy": "1500"
+  }
 ]
