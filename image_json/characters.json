@@ -667,7 +667,8 @@
         "name": "Nene Onemine",
         "age": 17,
         "relationship": "soltera",
-  "source": "Shiganshina",
-  "img": "https://files.catbox.moe/98vri2.jpg"
+        "source": "Komi Can't Communicate",
+        "img": "https://files.catbox.moe/98vri2.jpg",
+        "buy": "1000"
 }
  ]
