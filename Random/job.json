@@ -2,48 +2,43 @@
   "jobs": [
     {
       "description": "Trabajas como desarrollador de software.",
-      "minMoney": 500,
-      "maxMoney": 1500
+      "minMoney": 1200,
+      "maxMoney": 4000
     },
     {
       "description": "Enseñas a estudiantes en una universidad.",
-      "minMoney": 200,
-      "maxMoney": 800
+      "minMoney": 900,
+      "maxMoney": 2400
     },
     {
       "description": "Sirves comida y bebidas en un restaurante.",
-      "minMoney": 100,
-      "maxMoney": 400
-    }, 
-    {
-      "description": "Sirves comida y bebidas en un restaurante.",
-      "minMoney": 100,
-      "maxMoney": 400
+      "minMoney": 800,
+      "maxMoney": 2000
     }, 
     {
       "description": "Trabajaste como mesero y ganaste.",
-      "minMoney": 100,
-      "maxMoney": 250
+      "minMoney": 800,
+      "maxMoney": 2500
     }, 
     {
       "description": "Trabajaste cuidando una loli",
-      "minMoney": 100,
-      "maxMoney": 400
+      "minMoney": 900,
+      "maxMoney": 4500
     }, 
     {
       "description": "Trabajaste en un suchi para comprarte la figura de Alya que quierias",
-      "minMoney": 700,
-      "maxMoney": 1000
+      "minMoney": 1000,
+      "maxMoney": 6000
     },  
     {
       "description": "Trabajaste en una obra como albañil",
-      "minMoney": 700,
-      "maxMoney": 1000
+      "minMoney": 900,
+      "maxMoney": 10000
     }, 
     {
       "description": "Trabajaste de niñera",
-      "minMoney": 500,
-      "maxMoney": 1000
+      "minMoney": 3000,
+      "maxMoney": 8500
     }
   ]
 }
