@@ -38,6 +38,7 @@ let handler = async (m, { conn }) => {
 
     if (!who) throw '🚫 Etiqueta o menciona a alguien.';
 
+    let user = global.db.data.users[who];
     let name = conn.getName(who);
     let name2 = conn.getName(m.sender);
     m.react('🔥');
