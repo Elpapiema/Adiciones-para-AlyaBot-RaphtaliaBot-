@@ -1,7 +1,7 @@
 import axios from 'axios';
 import fs from 'fs';
 
-const settingsPath = './settings.json';
+const settingsPath = './database/settings.json';
 
 let handler = async (m, { conn, usedPrefix }) => {
     // Cargar configuración
